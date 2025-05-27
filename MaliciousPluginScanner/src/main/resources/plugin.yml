@@ -1,0 +1,8 @@
+
+# src/main/resources/plugin.yml
+name: MaliciousPluginScanner
+main: org.charlie.scanner.MaliciousPluginScanner
+version: 1.0
+api-version: 1.20
+author: ch4rlesexe
+description: Scans for potentially malicious plugins on startup.

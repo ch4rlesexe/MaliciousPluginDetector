@@ -1,0 +1,11 @@
+name: TestPlugin
+main: org.charlie.testplugin.TestPlugin
+version: 1.0
+api-version: 1.21
+author: ch4rlesexe
+description: A clean and simple test plugin with basic commands.
+commands:
+  hello:
+    description: Says hello
+  testplugin:
+    description: Shows plugin info

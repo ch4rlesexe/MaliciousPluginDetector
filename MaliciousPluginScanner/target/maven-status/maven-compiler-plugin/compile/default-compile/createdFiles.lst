@@ -1,0 +1,3 @@
+org/charlie/scanner/JarScanner.class
+org/charlie/scanner/MaliciousPluginScanner.class
+org/charlie/scanner/DetectionUtils.class
